@@ -1,0 +1,11 @@
+#!/bin/sh
+
+cat << _EOF
+
+!!! WARNING !!!
+
+You are inside an experimental nosticOS console.
+
+As the system evolves certain commands and actions may not be available at
+all times and may cause unpredictable behaviour.
+_EOF

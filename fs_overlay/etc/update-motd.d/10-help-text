@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# nosticOS Help Text
+# copyright appnostic. All rights reserved.
+
+printf "\n"
+printf " * Documentation:  https://help.appnostic.io\n"
+printf " * Website:        https://appnostic.io\n"
+printf " * Support:        https://help.appnostic.io\n"
