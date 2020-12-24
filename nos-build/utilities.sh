@@ -12,6 +12,7 @@ gpg-agent \
 dirmngr \
 net-tools \
 dnsutils \
+iptables \
 iputils-ping \
 iputils-tracepath \
 traceroute \
